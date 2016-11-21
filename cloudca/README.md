@@ -171,7 +171,7 @@ The following arguments are supported:
 - service_code - (Required) Service code
 - environment_name - (Required) Name of environment
 - name - (Required) Name of instance
-- network_id - (Required) The ID of the network where the instance should be created
+- network_id - (Required) The ID of the network Tier where the instance should be created
 - template - (Required) Name of template to use for the instance
 - compute_offering - (Required) Name of the compute offering to use for the instance
 - user_data - (Optional) User data to add to the instance
